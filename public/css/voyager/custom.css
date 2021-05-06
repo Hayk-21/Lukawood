@@ -1,0 +1,7 @@
+body, html {
+    color: #000;
+}
+
+.voyager .side-menu.sidebar-inverse .navbar li>a {
+    color: #ffffff;
+}
